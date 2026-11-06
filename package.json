@@ -1,0 +1,9 @@
+{
+  "name": "seniors-ai-gemini",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Seniors Ai static frontend with a secure Gemini API endpoint",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
